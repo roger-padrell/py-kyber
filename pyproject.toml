@@ -1,7 +1,7 @@
 [project]
 name = "py-kyber"
 version = "0.1.0"
-description = "Add your description here"
+description = "The port of UseKyber in python"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = []
